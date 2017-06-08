@@ -1,6 +1,6 @@
 # Karma / Jasmin POC
  
- #### Jasmine npm runner
+ ### Jasmine npm runner
   Run with ```npm test```. 
    
    **Observations**:
@@ -8,7 +8,7 @@
    - No watch option
    - Config via code
   
- #### Karma runner
+ ### Karma runner
   Run with ```npm test```. 
    
    **Observations**:
